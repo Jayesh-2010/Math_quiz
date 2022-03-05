@@ -1,0 +1,46 @@
+body{
+
+    background-image:url("bg.jpg") ;
+}
+
+.login_1, .login_2{
+
+    background-color: ghostwhite;
+    padding: 10px;
+    float: none;
+    border-radius: 20px;
+}
+
+#player1_name, #player2_name{
+
+    display: inline-block;
+    margin-left: 20px;
+
+}
+
+#number1, #number2{
+width: 60%;
+}
+
+h1{
+
+    margin-top: 75px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#output{
+
+    background-color: azure;
+    border-radius: 10px;
+    border-top: 10px solid salmon;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#player1_input, #player2_input{
+
+    display: inline-block;
+
+}
